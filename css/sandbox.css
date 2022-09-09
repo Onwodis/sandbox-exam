@@ -1,0 +1,189 @@
+#check{
+    border: 2px solid green;
+    height: 98vh;
+    justify-content: center;
+    clip-path: polygon(0 0,100% 0, 100% 88%,0 100%);
+    /* margin-top: 2vh; */
+    /* border-radius: 30px; */
+    /* padding: 20px; */
+    /* background-color: black; */
+
+}
+
+/* .li {
+    display: list-item;
+    text-align: -webkit-match-parent;
+} */
+#rag{
+    /* border: 1px solid whitesmoke; */
+    /* height: 25vh; */
+    width: 100%;
+    justify-items: stretch;
+    /* align-content: center; */
+    align-items: stretch;
+    /* background-color:black; */
+    font-weight: 600;
+    padding: 0px;
+    column-gap: 15%;
+    /* border-top-left-radius: 30px; */
+    /* border-top-right-radius: 30px; */
+
+}
+#rag li{
+    /* border :2px solid rgb(233, 86, 110); */
+    width: 106px;
+    font-size:medium;
+}
+#ska{
+    /* float: right; */
+    margin-left: 50%;
+}
+#sept{
+    /* border: 2px solid yellow; */
+}
+#sea{
+    /* border: 2px solid red; */
+    position: absolute;
+    /* height: 20vh; */
+    color:white;
+    width:100%;
+    justify-content: center;
+    /* background-color: skyblue; */
+    /* border-top-left-radius: 30px; */
+    /* border-top-right-radius: 30px; */
+    /* padding: 5px; */
+}
+#carryup{
+    margin-top: -75vh;
+    /* border: 2px solid blueviolet; */
+
+}
+#bike img{
+
+    border-radius: 0.4rem;
+    width: 100%;
+    max-width: 100%;
+    position: relative;
+    height: 80vh!important
+
+}
+  
+
+
+#car p{
+    display: block;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    font-size: .9rem;
+    font-weight: 500;
+    
+}
+
+.addtonice{
+    position: fixed;
+    /* background-color: white; */
+    color: black;
+    border: 2px solid yellow;
+    width: 100%;
+    height: 10vh;
+    padding-right: 10px;
+    padding-top: -10px;
+    z-index: 1;
+    
+
+}
+
+/* The animation code */
+/* @keyframes example {
+    from {background-color: red;}
+    to {background-color: blue;}
+    0%   {background-color: red;}
+    25%  {background-color: yellow;}
+    50%  {background-color: blue;}
+    100% {background-color: green;}
+  } */
+  
+  /* The element to apply the animation to */
+  /* #chi {
+    width: 100px;
+    height: 100px;
+    background-color: red;
+    animation-name: example;
+    animation-duration: 4s;
+  } */
+
+  #oket {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    min-height: 10vh;
+    padding: 20px;
+    background: -webkit-linear-gradient(left,#a445b2,#fa4299);
+    box-sizing: border-box;
+    font-family: sans-serif;
+}
+.wrapper{
+    width: 800px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+
+}
+.wrapper .card{
+    width: calc(33% - 20px);
+    background: #fff;
+    height: 300px;
+    border-radius: 5px;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    flex-direction: column;
+}
+.wrapper .card .circle{
+    height: 150px;
+    width: 150px;
+    border: 8px solid #fa4299;
+    border-radius: 50%;
+
+}
+#killer {
+    animation: glow .5s infinite alternate;
+}
+
+@keyframes glow {
+    to {
+        text-shadow: 0 0 15px white;
+    }
+}
+#killer2 {
+    animation: glow .5s infinite alternate;
+}
+
+@keyframes glow {
+    to {
+        text-shadow: 0 0 15px white;
+    }
+}
+.roast{
+    /* filter: blur(1px); */
+    /* background-color: rgba(0,0,0, 0.5);
+    z-index: 8; */
+}
+
+/* #chris {
+    font-family: sans-serif;
+    font-size: 36px;
+    font-weight: bold;
+} */
+
+
+/* #bike{ */
+    /* margin-top: -70vh; */
+    /* border: 2px solid blueviolet; */
+
+/* } */
+
+
+
